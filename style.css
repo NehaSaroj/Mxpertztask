@@ -1,0 +1,191 @@
+/* Index page css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #180a0a;
+  margin: 0;
+}
+
+.icon1 {
+  position: absolute;
+  bottom: 95%;
+  left: 90rem;
+}
+
+.maindiv {
+  width: 100%;
+  margin-right: auto;
+}
+
+.image {
+  margin-top: 100px;
+  height: 300px;
+  width: 500px;
+}
+
+.text-container {
+  position: absolute;
+  left: 60rem;
+  top: 70px;
+}
+
+
+.text1 {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.text2 {
+  color: aqua;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bolder;
+
+}
+
+.text3 {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.text4 {
+  color: #fefcfc;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.icon {
+  right: 150px;
+  top: 400px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-top: 150px;
+}
+
+.icon #p1 {
+  color: #fefcfc;
+  padding: 10px;
+}
+
+.text-container2 {
+  text-align: center;
+  position: relative;
+  top: 300px;
+  margin-left: 1%;
+  margin-right: 1%;
+  border-radius: 10px;
+  background-color: rgb(238, 212, 8);
+
+  height: 400px;
+
+}
+
+.text-container2 #c2h1 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 100px;
+  color: rgb(247, 17, 159);
+  text-align: center;
+  font-weight: bold;
+}
+
+.list-Container {
+  background-color: #2f2E2E;
+  height: 250px;
+  width: 100%;
+  padding: 100px;
+  position: absolute;
+  top: 1100px;
+  margin: 0;
+  color: white;
+  justify-content: space-evenly;
+  display: flex;
+
+}
+
+.list1 {
+  border-right: 2px solid #ece5e5;
+  height: 120px;
+  /* text-align: center; */
+}
+
+.list2 {
+  border-right: 2px solid #fefcfc;
+  height: 120px;
+}
+
+
+.list1 #l1 {
+  color: rgb(247, 17, 159);
+
+}
+
+.list1 #ul1 {
+  padding: 10px;
+
+}
+
+
+.list2 #l1 {
+  color: rgb(247, 17, 159);
+  margin-right: 25%;
+}
+
+.list2 #ul1 {
+  padding: 10px;
+  /* justify-content: space-evenly; */
+}
+
+.list3 #l1 {
+  color: rgb(247, 17, 159);
+  margin-right: 25%;
+}
+
+.list3 #ul1 {
+  padding: 10px;
+  /* justify-content: space-evenly; */
+}
+
+.pera {
+  background-color: black;
+  height: 550px;
+  width: 100%;
+  position: absolute;
+  top: 1350px;
+  margin: 0;
+  color: white;
+
+}
+
+.pera .perat1 {
+  align-items: center;
+  margin-top: 120px;
+  margin-left: 1500x;
+  margin-inline-start: 100px;
+}
+
+.image2 {
+  margin-top: 575px;
+  height: 300px;
+  /* width: 500px; */
+  display: flex;
+  position: absolute;
+  margin-left: 500px;
+
+}
+
+/* About Us page Css */
+
